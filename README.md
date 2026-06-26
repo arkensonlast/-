@@ -2,11 +2,15 @@
   <img src="https://i.pinimg.com/736x/ba/8d/20/ba8d204931f8f9929f9c0e850fbc7de3.jpg" width="900">
 </p>
 
----
+<h1 align="center">arkensonlast</h1>
 
 <p align="center">
-  <i>poetry log</i>
+  <i>silent thoughts / loud mind</i>
 </p>
+
+---
+
+## ◼ Det här kan vara sanningen?
 
 <p align="center">
 Livet isolerade mig.<br><br>
@@ -55,3 +59,10 @@ och jag lämnas kvar att bevittna det,<br><br>
 
 ensam under en kall och likgiltig himmel.
 </p>
+
+---
+
+## ◼ status
+
+```txt
+ha en mörk :: och dyster dag
