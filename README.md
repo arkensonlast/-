@@ -5,7 +5,7 @@
 <h1 align="center">arkensonlast</h1>
 
 <p align="center">
-  <i>silent thoughts / loud mind</i>
+  <i>ingen frälsning / ingen förlåtelse</i>
 </p>
 
 ---
